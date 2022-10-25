@@ -1,6 +1,6 @@
 # Desktop RGB Lamp
 
-![photo]()
+![photo](working%20setup.png)
 
 ## How to build your own lamp:
 
